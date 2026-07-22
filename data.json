@@ -6,12 +6,12 @@
     },
     {
         "id": 2,
-        "name": "Smartphone",
+        "name": "Samsung s21",
         "price": 30000
     },
     {
         "id": 3,
-        "name": "Tablet",
+        "name": "Iphone 16",
         "price": 20000
     }
 ]
